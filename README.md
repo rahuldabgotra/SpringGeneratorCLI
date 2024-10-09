@@ -73,6 +73,6 @@ We welcome contributions to enhance the tool or add new features.
 ![Java](https://img.shields.io/badge/Java-17%2F21-brightgreen) ![Spring](https://img.shields.io/badge/Spring-Boot-blue) ![Maven](https://img.shields.io/badge/Maven-3.2.0-orange)
 
 ## License
-This project is licensed under the Apache License 2.0 - see the LICENSE file for details.
+This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
 
 ---
