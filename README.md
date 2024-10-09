@@ -1,6 +1,6 @@
 # SpringGeneratorCLI
 
-A command-line tool to easily generate Spring Boot projects using the Spring Initializr API. This CLI allows users to specify project details such as project name, package name, project description, packaging type, Java version, and dependencies, and automatically generates a downloadable ZIP file containing the Spring Boot project structure.
+A command-line tool to easily generate Spring Boot projects using the Spring Initializr API. This CLI allows users to specify project details such as project name, package name, project description, packaging type, Java version, and dependencies. Then automatically generates a downloadable ZIP file containing the Spring Boot project structure.
 
 ## Project Description
 **SpringGeneratorCLI** simplifies creating Spring Boot projects by providing an interactive command-line interface. Users can configure their projects easily and generate a complete Spring Boot application setup.
@@ -12,12 +12,12 @@ A command-line tool to easily generate Spring Boot projects using the Spring Ini
 - Choose from various common Spring dependencies (web, JPA, security, etc.).
 
 ## Table of Contents
-- Installation and Setup
-- How to Use
-- Features
-- How to Contribute
-- Badges
-- License
+- [Installation and Setup](#installation-and-setup)
+- [How to Use](#how-to-use)
+- [Features](#features)
+- [How to Contribute](#how-to-contribute)
+- [Badges](#badges)
+- [License](#license)
 
 ## Installation and Setup
 
